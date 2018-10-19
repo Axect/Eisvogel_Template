@@ -8,14 +8,10 @@ subject: "Markdown"
 keywords: [Markdown, Example]
 subtitle: "Should modify this"
 titlepage: true
+toc-own-page: true
 ...
-
 
 \newpage\null\thispagestyle{empty}\newpage
 
 # Start
 
-Tcolorbox template:
-
-\begin{tcolorbox}[colback=white!5!white,colframe=white!50!black, title=\textbf{Def 1.1 } Topological Manifolds]
-\end{tcolorbox}
